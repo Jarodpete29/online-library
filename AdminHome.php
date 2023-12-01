@@ -27,7 +27,7 @@ if(!isset($_SESSION['admin'])){
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
-    <a class="navbar-brand" href="Adminhome.php"><img src="logo2.png"><span class="text">IETI</span> E-Library</a>
+    <a class="navbar-brand" href="AdminHome.php"><img src="logo2.png"><span class="text">IETI</span> E-Library</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>

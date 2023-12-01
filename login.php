@@ -65,7 +65,7 @@ if($_SERVER['REQUEST_METHOD'] == 'GET'){
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
     <link href="login.css" rel="stylesheet">
-    <script src="/ELIBRARY/jquery.min.js"></script>
+    <script src="/elibrary/jquery.min.js"></script>
 </head>
 <body>
     <div class ="form-container1">
